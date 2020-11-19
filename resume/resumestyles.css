@@ -1,0 +1,36 @@
+body { font-family: lucida, serif;
+font-size: 100%;
+
+}
+
+body{
+background: #ffefd5;
+}
+h1{
+color: #800000;
+font-family:"PlayFair Display", times, serif;
+text-decoration: underline;
+}
+h2{
+color: #191970;
+font-family:"PlayFair Display", times, serif;
+text-decoration: underline;
+}
+h3{
+color: #008080;
+font-family:"PlayFair Display", times, serif;
+text-decoration: underline;
+}
+li{
+
+text-transform: uppercase;
+}
+p {color: #000080;
+font-style: italic;}
+strong{color: #5f9ea0}
+
+a:link { color: maroon; }
+a:visited { color: gray; }
+a:focus { color: maroon; background-color: #ffd9d9;}
+a:hover { color: maroon; background-color: #ffd9d9;}
+a:active{ color: red; background-color: #ffd9d9;}
